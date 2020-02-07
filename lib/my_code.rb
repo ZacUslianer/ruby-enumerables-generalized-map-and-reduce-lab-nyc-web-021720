@@ -1,2 +1,5 @@
-  
-  # Your Code Here
+    # Your Code Here
+
+def map(array)
+
+end
