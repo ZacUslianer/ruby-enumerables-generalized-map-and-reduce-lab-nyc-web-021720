@@ -10,3 +10,5 @@ counter += 1
  new_array
 end
 
+def reduce
+end
